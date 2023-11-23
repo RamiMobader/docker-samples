@@ -19,7 +19,7 @@ public final class CandidatesUtil {
 	public static List<Candidate> getCandidates() {
 		var candidateList = List.of(
 			
-				new Candidate("Rami", 201778, Set.of("python","csharp","c++"))
+				new Candidate("Rami", 201778, Set.of("python","csharp","c++")),
 			
 		return candidateList;
 	}
